@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">LearnMaterialDesign</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content">Class Overview
+A TextView which supports compatible features on older version of the platform, including:
+
+Supports textAllCaps style attribute which works back to Eclair MR1.
+Allows dynamic tint of it background via the background tint methods in ViewCompat.
+Allows setting of the background tint using backgroundTint and backgroundTintMode.
+This will automatically be used when you use TextView in your layouts. You should only need to manually use this class when writing custom views.
+
+    Class Overview
+    A TextView which supports compatible features on older version of the platform, including:
+
+    Supports textAllCaps style attribute which works back to Eclair MR1.
+    Allows dynamic tint of it background via the background tint methods in ViewCompat.
+    Allows setting of the background tint using backgroundTint and backgroundTintMode.
+    This will automatically be used when you use TextView in your layouts. You should only need to manually use this
+    class when writing custom views.
+
+    Class Overview
+    A TextView which supports compatible features on older version of the platform, including:
+
+    Supports textAllCaps style attribute which works back to Eclair MR1.
+    Allows dynamic tint of it background via the background tint methods in ViewCompat.
+    Allows setting of the background tint using backgroundTint and backgroundTintMode.
+    This will automatically be used when you use TextView in your layouts. You should only need to manually use this
+    class when writing custom views.
+
+    Class Overview
+    A TextView which supports compatible features on older version of the platform, including:
+
+    Supports textAllCaps style attribute which works back to Eclair MR1.
+    Allows dynamic tint of it background via the background tint methods in ViewCompat.
+    Allows setting of the background tint using backgroundTint and backgroundTintMode.
+    This will automatically be used when you use TextView in your layouts. You should only need to manually use this
+    class when writing custom views.
+
+    Class Overview
+    A TextView which supports compatible features on older version of the platform, including:
+
+    Supports textAllCaps style attribute which works back to Eclair MR1.
+    Allows dynamic tint of it background via the background tint methods in ViewCompat.
+    Allows setting of the background tint using backgroundTint and backgroundTintMode.
+    This will automatically be used when you use TextView in your layouts. You should only need to manually use this
+    class when writing custom views.
+    </string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="edittext_name">用户名/手机号</string>
+    <string name="edittext_password">密码</string>
+</resources>
