@@ -12,6 +12,7 @@ buildscript {
     }
 }
 
+//所有项目的依赖仓库
 allprojects {
     repositories {
         jcenter()
